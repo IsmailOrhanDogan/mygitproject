@@ -16,6 +16,8 @@ public class MyGitClass {
 		System.out.println("Deneme 345");
 		System.out.println("Yeter  calis artik");
 		System.out.println("2.ekleme");
+		System.out.println("Githubdan ekledim.");
+		
 	}
 
 }
